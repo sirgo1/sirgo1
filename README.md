@@ -1,17 +1,17 @@
 <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3 >
-  > hey there, I'm Onyedika
+  > Hey there, I'm Godwin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
   <div id="badges" >
-  <a href="https://linkedin.com/in/onyedika-ukwueze" target="_blank">
+  <a href="https://rpubs.com/sirgo1" target="_blank">
+    <img src="https://img.shields.io/badge/Rpubs-Orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Rpubs Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/godwin-osuji/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/engr_real" target="_blank">
+  <a href="https://twitter.com/Analyst_Godwin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
