@@ -28,7 +28,7 @@ I am a Research Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I solve algorithm and data structure problems on <a href = "https://leetcode.com/Onyedikareal"> Leetcode</a>, contribute to open source, read tech articles and write mobile app development tutorials.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-onyedika-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-engr_real-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji) [![Twitter Badge](https://img.shields.io/badge/-Analyst_Godwin-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin) 
 
 
 
@@ -36,8 +36,8 @@ I am a Research Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rsudio/rdtudio-original-wordmark.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/R/R-original-wordmark.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/msexcel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
