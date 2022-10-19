@@ -1,9 +1,9 @@
 <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3 >
-  > Hey there, I'm Godwin
+  <h2 >
+  Hey there, I'm Godwin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+</h2>
   <div id="badges" >
   <a href="https://rpubs.com/sirgo1" target="_blank">
     <img src="https://img.shields.io/badge/Rpubs-Orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Rpubs Badge"/>
@@ -20,34 +20,40 @@
 
 </div>
   
-I am a Research Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years experience in mobile app development using flutter. 
+- :telescope: A Research Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 5 years of experience
+  
+- 👋 Have a strong foundation in Mathematics and Statistics.
+  
+- 👀 Have a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data - driven solutions to business owners and executives.
+  
+- 🌱 Accustomed to high-performance work environments and history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis.
+  
+- 💞️ A proven team player with a passion for collaboration and integrated ways of working to achieve business goals. Seeking a data analyst position with a high-growth organization that offers opportunities for career advancement.
+  
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Connect_me-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji)  [![Twitter Badge](https://img.shields.io/badge/-Follow_me-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin) 
 
-- :telescope: I’m currently developing mobile applications using flutter.
-
-- :seedling: Currently exploring backend development using python flask.
-
-- :zap: In my free time, I solve algorithm and data structure problems on <a href = "https://leetcode.com/Onyedikareal"> Leetcode</a>, contribute to open source, read tech articles and write mobile app development tutorials.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji) [![Twitter Badge](https://img.shields.io/badge/-Analyst_Godwin-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin) 
-
-
-
-### :hammer_and_wrench: Languages and Tools :
+ 
+ 
+ ## :hammer_and_wrench: Languages and Tools: 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original-wordmark.svg" title="Microsoft Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
+ 
+## Activities
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirgo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirgo1&layout=compact&theme=vision-friendly-dark)](https://github.com/sirgo1/github-readme-stats)
@@ -57,6 +63,9 @@ I am a Research Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### :writing_hand: Blog Posts :
+  Latest blog
 
 <!---
 sirgo1/sirgo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
