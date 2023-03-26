@@ -68,6 +68,13 @@
 5. Reproducible Research (Johns Hopkins University)
 6. SQL for Data Science Specialization (University of California, Davis)
   
+### Recent Projects
+•	Analysis on Customer Service Lead Data. <br />
+  Link: https://bit.ly/40y9HIL
+
+•	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
+  Link: https://rpubs.com/sirgo1/946417
+
 ### :hammer_and_wrench: Activities
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirgo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
