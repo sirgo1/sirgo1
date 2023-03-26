@@ -18,8 +18,9 @@
 <h4> Nice to have you here! &nbsp
 <img  src="https://komarev.com/ghpvc/?username=sirgo1&style=flat-square&color=blue" alt=""/>
 
-</div>
+ <h2 >
 ##  ABOUT ME
+</h2>
 Godwin is a versatile and experienced Data Scientist Analyst with a strong foundation in Mathematics and Statistics. 
 He has a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data - driven solutions to business owners and executives.
 Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis. 
@@ -55,7 +56,7 @@ A proven team player with a passion for collaboration and integrated ways of wor
 
 <div>
   <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
-<div>
+</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
