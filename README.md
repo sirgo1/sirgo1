@@ -17,14 +17,14 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Connect_me-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji)  [![Twitter Badge](https://img.shields.io/badge/-Follow_me-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin)
   
-### 🖼️ About Me
+## 🖼️ About Me
 
 - Godwin is a versatile and experienced Data Scientist Analyst with a strong foundation in Mathematics and Statistics. 
 - He has a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data - driven solutions to business owners and executives. 
 - Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis. 
 - A proven team player with a passion for collaboration and integrated ways of working to achieve business goals.
   
-### 🏫 Educational Qualification
+## 🏫 Educational Qualification
  **Btech. Mathematics** <br />
 (Federal University of Technology Owerri, Imo State, Nigeria)
                  
@@ -60,7 +60,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
   </div>
   
-### Relevant Certifications
+## Relevant Certifications
 1. Data Analytics Professional Certificate(Google) 
 2. Statistical Inference (Johns Hopkins University)
 3. Getting and Cleaning Data Specialization (Johns Hopkins University)
@@ -68,14 +68,14 @@
 5. Reproducible Research (Johns Hopkins University)
 6. SQL for Data Science Specialization (University of California, Davis)
   
-### Recent Projects
+## Recent Projects
 •	Analysis on Customer Service Lead Data. <br />
   Link: https://bit.ly/40y9HIL
 
 •	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
   Link: https://rpubs.com/sirgo1/946417
 
-### :hammer_and_wrench: Activities
+## :hammer_and_wrench: Activities
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirgo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirgo1&layout=compact&theme=vision-friendly-dark)](https://github.com/sirgo1/github-readme-stats)
@@ -84,7 +84,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+## :writing_hand: Blog Posts :
   
   **My Interview with Chipper Cash** <br />
   
