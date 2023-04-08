@@ -19,7 +19,7 @@
   
 ## 🖼️ About Me
 
-- Godwin is a versatile and experienced Data Scientist Analyst with a strong foundation in Mathematics and Statistics. 
+- Godwin is a versatile and experienced Data Scientist and a Business Analyst with a strong foundation in Mathematics and Statistics. 
 - He has a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data - driven solutions to business owners and executives. 
 - Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis. 
 - A proven team player with a passion for collaboration and integrated ways of working to achieve business goals.
@@ -32,7 +32,7 @@
 1. Application of Mathematics in Telecommunication Industry
 2. Numerical Analysis Using Non-Linear Ordinary Differential Equation.
 
-  #### Relevant course works:
+  #### Undergraduate course works
 1. Operations Research, 
 2. Numerical Analysis 
 3. Real Analysis
@@ -40,6 +40,13 @@
 5. Statistics
 6. Computer Application
 7. Mathematic Methods
+  
+  #### Relevant Professional course works
+1. Deep Learning in Business
+2. Data Mining for Business Analytics
+3. Machine Learning
+4. Exploratory Data Analytics
+5. Reproducible Research
  
  ## 🧰 Languages and Tools: 
   <div>
