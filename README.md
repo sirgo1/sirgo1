@@ -17,6 +17,23 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Connect_me-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji)  [![Twitter Badge](https://img.shields.io/badge/-Follow_me-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin)
   
+<html>
+  <body>
+    <header>
+      <h1>Welcome to my Data Analyst Portfolio</h1>
+      <nav>
+        <ul>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#%EF%B8%8F-about-me">About Me</a></li>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#-educational-qualification">Educational Qualification</a></li>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#-languages-and-tools">Programming Languages and Tools</a></li>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#relevant-certifications">Relevant Certifications</a></li>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#recent-projects">Recent Projects</a></li>
+          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#writing_hand-blog-posts-">Blog Posts</a></li>
+        </ul>
+      </nav>
+    </header>
+
+  
 ## 🖼️ About Me
 
 - Godwin is a versatile and experienced Data Scientist and a Business Analyst with a strong foundation in Mathematics and Statistics. 
@@ -48,23 +65,28 @@
 4. Exploratory Data Analytics
 5. Reproducible Research
  
- ## 🧰 Languages and Tools: 
-  <div>
-  <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
+ ## 🧰 Programming Languages and Tools: 
+  <div class="row">
+    <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
+  </div>
+  
+  <div class="row">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  </div>
+  <div class="row">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
   </div>
   
 ## Relevant Certifications
@@ -82,18 +104,11 @@
 •	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
   Link: https://rpubs.com/sirgo1/946417
 
-## :hammer_and_wrench: Activities
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirgo1&theme=dark&background=000000)](https://git.io/streak-stats)
+## :writing_hand: Blog Posts:
+    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirgo1&layout=compact&theme=vision-friendly-dark)](https://github.com/sirgo1/github-readme-stats)
-<!-- BLOG-POST-LIST:START --> 
-<!-- BLOG-POST-LIST:END --> 
-
----
-
-## :writing_hand: Blog Posts :
-  
-  **My Interview with Chipper Cash** <br />
+### My Interview with Chipper Cash
+**March, 2023** <br />
   
 Interviews are a crucial part of the job search process, and they can be both exciting and nerve-wracking.
 
