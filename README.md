@@ -19,7 +19,7 @@
 <html>
 <body>
   <header>
-     <h2>Outline</h2>
+     <h1>Table of Content</h1>
     <nav>
       <ul>
         <li><a href="#about-me">About Me</a></li>
