@@ -1,6 +1,5 @@
-<div id="header" >
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img  src="https://komarev.com/ghpvc/?username=sirgo1&style=flat-square&color=blue" alt=""/>
   <h2 >
   Hey there, I'm Godwin!
@@ -9,8 +8,7 @@
   <a href="https://rpubs.com/sirgo1" target="_blank">
     <img src="https://img.shields.io/badge/Rpubs-Orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Rpubs Badge"/>
   </a>
-    
-</div> 
+</div>
   <h4> Nice to have you here! &nbsp
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h4>
@@ -18,20 +16,57 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Connect_me-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/godwin-osuji)  [![Twitter Badge](https://img.shields.io/badge/-Follow_me-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Analyst_Godwin)
   
 <html>
-  <body>
-    <header>
-      <h1>Welcome to my Data Analyst Portfolio</h1>
-      <nav>
-        <ul>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#%EF%B8%8F-about-me">About Me</a></li>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#-educational-qualification">Educational Qualification</a></li>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#-languages-and-tools">Programming Languages and Tools</a></li>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#relevant-certifications">Relevant Certifications</a></li>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#recent-projects">Recent Projects</a></li>
-          <li><a href="https://github.com/sirgo1/sirgo1/edit/main/README.md#writing_hand-blog-posts-">Blog Posts</a></li>
-        </ul>
-      </nav>
-    </header>
+<body>
+  <header>
+    <h1>Welcome to my Data Analyst Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#educational-qualification">Educational Qualification</a></li>
+        <li><a href="#programming-languages-and-tools">Programming Languages and Tools</a></li>
+        <li><a href="#relevant-certifications">Relevant Certifications</a></li>
+        <li><a href="#recent-projects">Recent Projects</a></li>
+        <li><a href="#blog-posts">Blog Posts</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <div id="about-me">
+    <h2>🖼️ About Me</h2>
+    <ul>
+      <li>Godwin is a versatile and experienced Data Scientist and a Business Analyst with a strong foundation in Mathematics and Statistics.</li>
+      <li>He has a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data-driven solutions to business owners and executives.</li>
+      <li>Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis.</li>
+      <li>A proven team player with a passion for collaboration and integrated ways of working to achieve business goals.</li>
+    </ul>
+  </div>
+
+  <div id="educational-qualification">
+    <h2>🏫 Educational Qualification</h2>
+    <ul>
+      <li>Btech. Mathematics</li>
+      <li>(Federal University of Technology Owerri, Imo State, Nigeria)</li>
+    </ul>
+  </div>
+
+  <div id="programming-languages-and-tools">
+    <!-- ... (your Programming Languages and Tools content) ... -->
+  </div>
+
+  <div id="relevant-certifications">
+    <!-- ... (your Relevant Certifications content) ... -->
+  </div>
+
+  <div id="recent-projects">
+    <!-- ... (your Recent Projects content) ... -->
+  </div>
+
+  <div id="blog-posts">
+    <!-- ... (your Blog Posts content) ... -->
+  </div>
+</body>
+</html>
+
 
   
 ## 🖼️ About Me
