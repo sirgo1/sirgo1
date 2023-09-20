@@ -1,4 +1,5 @@
 <div id="header">
+   <h1>Welcome to my Portfolio</h1>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img  src="https://komarev.com/ghpvc/?username=sirgo1&style=flat-square&color=blue" alt=""/>
   <h2 >
@@ -18,7 +19,7 @@
 <html>
 <body>
   <header>
-    <h1>Welcome to my Data Analyst Portfolio</h1>
+     <h2>Outline</h2>
     <nav>
       <ul>
         <li><a href="#about-me">About Me</a></li>
@@ -44,17 +45,47 @@
   <div id="educational-qualification">
     <h2>🏫 Educational Qualification</h2>
     <ul>
-      <li>Btech. Mathematics</li>
-      <li>(Federal University of Technology Owerri, Imo State, Nigeria)</li>
+       <li>Btech. Mathematics (Federal University of Technology Owerri, Imo State, Nigeria)</li>
     </ul>
   </div>
 
   <div id="programming-languages-and-tools">
-    <!-- ... (your Programming Languages and Tools content) ... -->
+     <h2>🧰 Programming Languages and Tools</h2>
+     <ul>
+     <div class="row">
+        <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
+     </div>
+     <div class="row">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+     </div>
+     <div class="row">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
+     </div>
+     </ul>
   </div>
 
   <div id="relevant-certifications">
-    <!-- ... (your Relevant Certifications content) ... -->
+     <h2>Relevant Certifications</h2>
+     <ul>
+      <li>Data Analytics Professional Certificate(Google)</li>
+      <li>Statistical Inference (Johns Hopkins University)</li>
+      <li>Getting and Cleaning Data Specialization (Johns Hopkins University)</li>
+      <li>Exploratory Data Analysis Specialization (Johns Hopkins University)</li>
+      <li>Reproducible Research (Johns Hopkins University)</li>
+      <li>SQL for Data Science Specialization (University of California, Davis)</li>
+     </ul>
   </div>
 
   <div id="recent-projects">
@@ -69,16 +100,7 @@
 
 
   
-## 🖼️ About Me
-
-- Godwin is a versatile and experienced Data Scientist and a Business Analyst with a strong foundation in Mathematics and Statistics. 
-- He has a demonstrable background in growing business revenue through proficient interpretation of market and financial data, and delivering data - driven solutions to business owners and executives. 
-- Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis. 
-- A proven team player with a passion for collaboration and integrated ways of working to achieve business goals.
   
-## 🏫 Educational Qualification
- **Btech. Mathematics** <br />
-(Federal University of Technology Owerri, Imo State, Nigeria)
                  
   #### Relevant Undergraduate Projects:
 1. Application of Mathematics in Telecommunication Industry
@@ -100,37 +122,10 @@
 4. Exploratory Data Analytics
 5. Reproducible Research
  
- ## 🧰 Programming Languages and Tools: 
-  <div class="row">
-    <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
-  </div>
+ 
+ 
   
-  <div class="row">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  </div>
-  <div class="row">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
-  </div>
-  
-## Relevant Certifications
-1. Data Analytics Professional Certificate(Google) 
-2. Statistical Inference (Johns Hopkins University)
-3. Getting and Cleaning Data Specialization (Johns Hopkins University)
-4. Exploratory Data Analysis Specialization (Johns Hopkins University)
-5. Reproducible Research (Johns Hopkins University)
-6. SQL for Data Science Specialization (University of California, Davis)
+
   
 ## Recent Projects
 •	Analysis on Customer Service Lead Data. <br />
