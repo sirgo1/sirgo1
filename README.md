@@ -89,7 +89,11 @@
   </div>
 
   <div id="recent-projects">
-    <!-- ... (your Recent Projects content) ... -->
+•	Analysis on Customer Service Lead Data. <br />
+  Link: https://bit.ly/40y9HIL
+
+•	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
+  Link: https://rpubs.com/sirgo1/946417
   </div>
 
   <div id="blog-posts">
@@ -124,15 +128,7 @@
  
  
  
-  
 
-  
-## Recent Projects
-•	Analysis on Customer Service Lead Data. <br />
-  Link: https://bit.ly/40y9HIL
-
-•	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
-  Link: https://rpubs.com/sirgo1/946417
 
 ## :writing_hand: Blog Posts:
     
