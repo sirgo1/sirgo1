@@ -47,6 +47,30 @@
     <ul>
        <li>Btech. Mathematics (Federal University of Technology Owerri, Imo State, Nigeria)</li>
     </ul>
+     <h2>Relevant Undergraduate Projects</h2>
+    <ul>
+       1. Application of Mathematics in Telecommunication Industry
+       2. Numerical Analysis Using Non-Linear Ordinary Differential Equation.
+    </ul>
+     <h2>Undergraduate course works</h2>
+    <ul>
+       1. Operations Research 
+       2. Numerical Analysis 
+       3. Real Analysis
+       4. Partial Differentila Equation
+       5. Statistics
+       6. Computer Application
+       7. Mathematic Method
+    </ul>
+     <h2>Relevant Professional course works</h2>
+    <ul>
+      1. Deep Learning in Business
+       2. Data Mining for Business Analytics
+       3. Machine Learning
+       4. Exploratory Data Analytics
+       5. Reproducible Research
+    </ul>
+
   </div>
 
   <div id="programming-languages-and-tools">
@@ -101,7 +125,7 @@
   </div>
 
   <div id="blog-posts">
-       <h1>## :writing_hand: Blog Posts:</h1>
+       <h1>:writing_hand: Blog Posts:</h1>
      <h2> My Interview with Chipper Cash</h2>
      <h3> March, 2023</h3>
     <ul>
@@ -125,10 +149,7 @@ I am sure you would benefit from my tips. Happy reading!
 
 5. Follow-Up: After the interview, follow up with a thank-you email or note. This will show the interviewer that you appreciate the opportunity to interview with the company and are interested in the position.
 
-In conclusion, interviewing can be a nerve-wracking experience, but it doesn't have to be. With the right preparation and mindset, you can ace your next interview. Remember to research the company, prepare responses to common interview questions, be confident, dress professionally, and follow up. Good luck!
-      <li>Basic Inferential Data Analysis on the ToothGrowth data in R <br />
-  Link: https://rpubs.com/sirgo1/946417</li>
-      
+In conclusion, interviewing can be a nerve-wracking experience, but it doesn't have to be. With the right preparation and mindset, you can ace your next interview. Remember to research the company, prepare responses to common interview questions, be confident, dress professionally, and follow up. Good luck!  
     </ul>
     
   </div>
@@ -139,25 +160,7 @@ In conclusion, interviewing can be a nerve-wracking experience, but it doesn't h
   
   
                  
-  #### Relevant Undergraduate Projects:
-1. Application of Mathematics in Telecommunication Industry
-2. Numerical Analysis Using Non-Linear Ordinary Differential Equation.
 
-  #### Undergraduate course works
-1. Operations Research, 
-2. Numerical Analysis 
-3. Real Analysis
-4. Partial Differentila Equation
-5. Statistics
-6. Computer Application
-7. Mathematic Methods
-  
-  #### Relevant Professional course works
-1. Deep Learning in Business
-2. Data Mining for Business Analytics
-3. Machine Learning
-4. Exploratory Data Analytics
-5. Reproducible Research
  
  
  
