@@ -89,15 +89,48 @@
   </div>
 
   <div id="recent-projects">
-•	Analysis on Customer Service Lead Data. <br />
-  Link: https://bit.ly/40y9HIL
-
-•	Basic Inferential Data Analysis on the ToothGrowth data in R <br />
-  Link: https://rpubs.com/sirgo1/946417
+     <h2> Recent Projects</h2>
+    <ul>
+      <li>Analysis on Customer Service Lead Data. <br />
+  Link: https://bit.ly/40y9HIL</li>
+      <li>Basic Inferential Data Analysis on the ToothGrowth data in R <br />
+  Link: https://rpubs.com/sirgo1/946417</li>
+      <li>Accustomed to high-performance work environments and has a history of taking the initiative in designing new methods for growth and efficiency through streamlined reporting and statistical analysis.</li>
+      <li>A proven team player with a passion for collaboration and integrated ways of working to achieve business goals.</li>
+    </ul>
   </div>
 
   <div id="blog-posts">
-    <!-- ... (your Blog Posts content) ... -->
+       <h1>## :writing_hand: Blog Posts:</h1>
+     <h2> My Interview with Chipper Cash</h2>
+     <h3> March, 2023</h3>
+    <ul>
+Interviews are a crucial part of the job search process, and they can be both exciting and nerve-wracking.
+
+I interviewed with Chipper Cash for the Pricing Analyst role around January this year. It was a nice experience because I learned a lot while preparing and from the interview. Although I couldn't go past the second phase of the interview which I believed should be the final phase, I can say that the interview was my best interview so far.
+
+I have put together some tips based on my experience in the interview to help you prepare for your next interview.
+
+In my case, I think not doing the last tip affected me. Imagine, when a hiring manager told you immediately after interviewing you, that you can reach out to him through his email regarding any confusion you might have and that he would be waiting for them. 😆
+
+I am sure you would benefit from my tips. Happy reading!
+
+1. Research the Company: Before the interview, research the company to understand its mission, values, products, and services. This will help you tailor your responses during the interview to fit the company's culture and mission.
+
+2. Prepare Responses to Common Interview Questions: It's always good to prepare responses to common interview questions, such as "What are your strengths and weaknesses?" or "Why do you want to work for our company?" This will help you avoid being caught off guard during the interview.
+
+3. Be Confident: Confidence is key during an interview. Remember that the company invited you for an interview because they see potential in you. So, be confident in your abilities, and let your personality shine through.
+
+4. Dress Professionally: First impressions matter, so make sure to dress professionally for the interview. It's better to be overdressed than underdressed.
+
+5. Follow-Up: After the interview, follow up with a thank-you email or note. This will show the interviewer that you appreciate the opportunity to interview with the company and are interested in the position.
+
+In conclusion, interviewing can be a nerve-wracking experience, but it doesn't have to be. With the right preparation and mindset, you can ace your next interview. Remember to research the company, prepare responses to common interview questions, be confident, dress professionally, and follow up. Good luck!
+      <li>Basic Inferential Data Analysis on the ToothGrowth data in R <br />
+  Link: https://rpubs.com/sirgo1/946417</li>
+      
+    </ul>
+    
   </div>
 </body>
 </html>
@@ -130,33 +163,13 @@
  
 
 
-## :writing_hand: Blog Posts:
+
     
 
-### My Interview with Chipper Cash
-**March, 2023** <br />
+### 
+
   
-Interviews are a crucial part of the job search process, and they can be both exciting and nerve-wracking.
 
-I interviewed with Chipper Cash for the Pricing Analyst role around January this year. It was a nice experience because I learned a lot while preparing and from the interview. Although I couldn't go past the second phase of the interview which I believed should be the final phase, I can say that the interview was my best interview so far.
-
-I have put together some tips based on my experience in the interview to help you prepare for your next interview.
-
-In my case, I think not doing the last tip affected me. Imagine, when a hiring manager told you immediately after interviewing you, that you can reach out to him through his email regarding any confusion you might have and that he would be waiting for them. 😆
-
-I am sure you would benefit from my tips. Happy reading!
-
-1. Research the Company: Before the interview, research the company to understand its mission, values, products, and services. This will help you tailor your responses during the interview to fit the company's culture and mission.
-
-2. Prepare Responses to Common Interview Questions: It's always good to prepare responses to common interview questions, such as "What are your strengths and weaknesses?" or "Why do you want to work for our company?" This will help you avoid being caught off guard during the interview.
-
-3. Be Confident: Confidence is key during an interview. Remember that the company invited you for an interview because they see potential in you. So, be confident in your abilities, and let your personality shine through.
-
-4. Dress Professionally: First impressions matter, so make sure to dress professionally for the interview. It's better to be overdressed than underdressed.
-
-5. Follow-Up: After the interview, follow up with a thank-you email or note. This will show the interviewer that you appreciate the opportunity to interview with the company and are interested in the position.
-
-In conclusion, interviewing can be a nerve-wracking experience, but it doesn't have to be. With the right preparation and mindset, you can ace your next interview. Remember to research the company, prepare responses to common interview questions, be confident, dress professionally, and follow up. Good luck!
 
 <!---
 sirgo1/sirgo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
