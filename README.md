@@ -49,18 +49,18 @@
     </ul>
      <h2>Relevant Undergraduate Projects</h2>
     <ul>
-1. Application of Mathematics in Telecommunication Industry
-2. Numerical Analysis Using Non-Linear Ordinary Differential Equation.
+1. Application of Mathematics in Telecommunication Industry <br />
+2. Numerical Analysis Using Non-Linear Ordinary Differential Equation. <br />
     </ul>
      <h2>Undergraduate course works</h2>
     <ul>
-1. Operations Research 
-2. Numerical Analysis 
-3. Real Analysis
-4. Partial Differentila Equation
-5. Statistics
-6. Computer Application
-7. Mathematic Method
+1. Operations Research <br />
+2. Numerical Analysis <br />
+3. Real Analysis <br />
+4. Partial Differentila Equation <br />
+5. Statistics <br />
+6. Computer Application <br />
+7. Mathematic Method <br />
     </ul>
      <h2>Relevant Professional course works</h2>
     <ul>
