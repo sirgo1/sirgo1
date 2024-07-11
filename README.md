@@ -64,11 +64,11 @@
     </ul>
      <h2>Relevant Professional course works</h2>
     <ul>
-      1. Deep Learning in Business
-       2. Data Mining for Business Analytics
-       3. Machine Learning
-       4. Exploratory Data Analytics
-       5. Reproducible Research
+1. Deep Learning in Business <br />
+2. Data Mining for Business Analytics <br />
+3. Machine Learning <br />
+4. Exploratory Data Analytics <br />
+5. Reproducible Research <br />
     </ul>
 
   </div>
