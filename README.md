@@ -63,19 +63,17 @@ Godwin is a versatile and experienced Data Scientist and a Business Analyst with
   <div id="programming-languages-and-tools">
      <h3>Programming Languages and Tools</h3>
      <ul>
-     <div class="row">
-        <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" alt="Microsoft Excel" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="70" height="70"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>
+     <div>
+        <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" alt="Microsoft Excel" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> &nbsp &nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="70" height="70"/> &nbsp &nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="70" height="70"/>
     </div>
      </ul>
   </div>
