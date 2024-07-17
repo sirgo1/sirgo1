@@ -1,22 +1,22 @@
 <div id="header">
-   <h1>Godwin Chinwendu Osuji</h1>
+   <h1>Godwin osuji - Data Analyst</h1>
 </div>
   <h4> Nice to have you here! &nbsp
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
  </h4>
 <html>
 <body>
    
   <header>
-     <h2>Table of Content</h2>
+     <h2>Contents</h2>
     <nav>
       <ul>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#educational-qualification">Educational Qualification</a></li>
-        <li><a href="#programming-languages-and-tools">Programming Languages and Tools</a></li>
-        <li><a href="#relevant-certifications">Relevant Certifications</a></li>
-        <li><a href="#recent-projects">Recent Projects</a></li>
-        <li><a href="#blog-posts">Blog Posts</a></li>
+         1. <a href="#about-me">About Me</a> <br />
+         2. <a href="#educational-qualification">Educational Qualification</a> <br />
+         3. <a href="#programming-languages-and-tools">Programming Languages and Tools</a> <br />
+         4. <a href="#relevant-certifications">Relevant Certifications</a> <br />
+         6. <a href="#recent-projects">Recent Projects</a> <br />
+         7. <a href="#blog-posts">Blog Posts</a>
       </ul>
     </nav>
   </header>
@@ -64,21 +64,18 @@ Godwin is a versatile and experienced Data Scientist and a Business Analyst with
      <h3>Programming Languages and Tools</h3>
      <ul>
      <div class="row">
-        <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" alt="Microsoft Excel" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Rstudio" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
+        <img src="https://cdn.cdnlogo.com/logos/m/96/microsoft-excel.png" title="Microsoft Excel" alt="Microsoft Excel" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio " width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"  title="SPSS" alt="SPSS" width="70" height="70"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode " **alt="VSCode" width="70" height="70"/>
     </div>
      </ul>
   </div>
