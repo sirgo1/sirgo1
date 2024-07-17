@@ -16,7 +16,6 @@
          3. <a href="#programming-languages-and-tools">Programming Languages and Tools</a> <br />
          4. <a href="#relevant-certifications">Relevant Certifications</a> <br />
          6. <a href="#recent-projects">Recent Projects</a> <br />
-         7. <a href="#blog-posts">Blog Posts</a>
       </ul>
     </nav>
   </header>
@@ -98,36 +97,6 @@ Godwin is a versatile and experienced Data Scientist and a Business Analyst with
        2. Basic Inferential Data Analysis on the ToothGrowth data in R <br />
        Link: https://rpubs.com/sirgo1/946417</li>
     </ul>
-  </div>
-
-  <div id="blog-posts">
-       <h3>:writing_hand: Blog Posts:</h3>
-     <h3> My Interview with Chipper Cash</h3>
-     <h4> March, 2023</h4>
-    <ul>
-Interviews are a crucial part of the job search process, and they can be both exciting and nerve-wracking.
-
-I interviewed with Chipper Cash for the Pricing Analyst role around January this year. It was a nice experience because I learned a lot while preparing and from the interview. Although I couldn't go past the second phase of the interview which I believed should be the final phase, I can say that the interview was my best interview so far.
-
-I have put together some tips based on my experience in the interview to help you prepare for your next interview.
-
-In my case, I think not doing the last tip affected me. Imagine, when a hiring manager told you immediately after interviewing you, that you can reach out to him through his email regarding any confusion you might have and that he would be waiting for them. 😆
-
-I am sure you would benefit from my tips. Happy reading!
-
-1. Research the Company: Before the interview, research the company to understand its mission, values, products, and services. This will help you tailor your responses during the interview to fit the company's culture and mission.
-
-2. Prepare Responses to Common Interview Questions: It's always good to prepare responses to common interview questions, such as "What are your strengths and weaknesses?" or "Why do you want to work for our company?" This will help you avoid being caught off guard during the interview.
-
-3. Be Confident: Confidence is key during an interview. Remember that the company invited you for an interview because they see potential in you. So, be confident in your abilities, and let your personality shine through.
-
-4. Dress Professionally: First impressions matter, so make sure to dress professionally for the interview. It's better to be overdressed than underdressed.
-
-5. Follow-Up: After the interview, follow up with a thank-you email or note. This will show the interviewer that you appreciate the opportunity to interview with the company and are interested in the position.
-
-In conclusion, interviewing can be a nerve-wracking experience, but it doesn't have to be. With the right preparation and mindset, you can ace your next interview. Remember to research the company, prepare responses to common interview questions, be confident, dress professionally, and follow up. Good luck!  
-    </ul>
-    
   </div>
 </body>
 </html>
